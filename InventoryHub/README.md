@@ -21,4 +21,4 @@ dotnet run --project InventoryHub
 - `ApiBaseUrl`: base address used by `ApiService` (default `https://localhost:7104/`)
 
 ## Notes
-See [Reflection.md](Reflection.md) for development notes.
+See [Reflection.md](InventoryHub/Reflection.md) for development notes.
